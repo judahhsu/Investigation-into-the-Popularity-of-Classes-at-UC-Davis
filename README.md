@@ -1,4 +1,4 @@
-# Investigation-of-the-Popularity-of-Classes-at-UC-Davis
+# Investigation-into-the-Popularity-of-Classes-at-UC-Davis
 
 Having taken so many units that I'd have to choose some classes after everyone else, this short, personal project came about from the frustration of not knowing which classes to choose first. Using GET requests, I aim to gather chronological data on the aggregate amount of students registered for a variety of classes, across different majors (during registration period). Currently, this project has been halted due to its personal lack of necessity (as well as the expected length of time gathering data in order to get accurate results). 
 
